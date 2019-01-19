@@ -9,3 +9,4 @@ I have used the following resources while completing this project:
 4. https://www.youtube.com/watch?v=2z0ofe2lpz4&t=59s
 5. https://www.youtube.com/watch?v=lu5ul7z4icQ
 6. https://github.com/harvitronix/neural-network-genetic-algorithm
+7. https://arxiv.org/pdf/1712.06567.pdf
